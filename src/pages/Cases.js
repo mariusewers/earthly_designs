@@ -1,4 +1,4 @@
 export default function Cases() {
-    return <p>Cases</p>;
+    return <p>Cases hej</p>;
   }
   
